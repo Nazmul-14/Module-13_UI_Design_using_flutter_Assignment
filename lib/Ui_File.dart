@@ -90,7 +90,7 @@ class Uidesign extends StatelessWidget {
                                     ),
                                     SizedBox(width: 6),
                                     Icon(Icons.arrow_forward_sharp, size: 16, color: Colors.black),
-                                     // icon আর text এর মাঝে ফাঁকা
+    
 
                                   ],
                                 ),
@@ -171,8 +171,7 @@ class Uidesign extends StatelessWidget {
                                     ),
                                     SizedBox(width: 6),
                                     Icon(Icons.arrow_forward_sharp, size: 16, color: Colors.black),
-                                    // icon আর text এর মাঝে ফাঁকা
-
+                                    
                                   ],
                                 ),
                               ),
@@ -259,7 +258,7 @@ class Uidesign extends StatelessWidget {
                                     ),
                                     SizedBox(width: 6),
                                     Icon(Icons.arrow_forward_sharp, size: 16, color: Colors.black),
-                                    // icon আর text এর মাঝে ফাঁকা
+                                    
 
                                   ],
                                 ),
@@ -340,7 +339,7 @@ class Uidesign extends StatelessWidget {
                                     ),
                                     SizedBox(width: 6),
                                     Icon(Icons.arrow_forward_sharp, size: 16, color: Colors.black),
-                                    // icon আর text এর মাঝে ফাঁকা
+                                    
 
                                   ],
                                 ),
