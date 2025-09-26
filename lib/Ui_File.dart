@@ -90,8 +90,6 @@ class Uidesign extends StatelessWidget {
                                     ),
                                     SizedBox(width: 6),
                                     Icon(Icons.arrow_forward_sharp, size: 16, color: Colors.black),
-    
-
                                   ],
                                 ),
                               ),
@@ -171,7 +169,6 @@ class Uidesign extends StatelessWidget {
                                     ),
                                     SizedBox(width: 6),
                                     Icon(Icons.arrow_forward_sharp, size: 16, color: Colors.black),
-                                    
                                   ],
                                 ),
                               ),
@@ -258,8 +255,6 @@ class Uidesign extends StatelessWidget {
                                     ),
                                     SizedBox(width: 6),
                                     Icon(Icons.arrow_forward_sharp, size: 16, color: Colors.black),
-                                    
-
                                   ],
                                 ),
                               ),
@@ -339,8 +334,6 @@ class Uidesign extends StatelessWidget {
                                     ),
                                     SizedBox(width: 6),
                                     Icon(Icons.arrow_forward_sharp, size: 16, color: Colors.black),
-                                    
-
                                   ],
                                 ),
                               ),
